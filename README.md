@@ -9,7 +9,7 @@ This project focuses on analyzing customer shopping behavior using classificatio
 - **Clustering**: Group customers into segments based on numerical features like age, purchase amount, and frequency using K-Means and Hierarchical Clustering algorithms.
 - **Evaluation**: Assess model performance using metrics such as Accuracy, Precision, Recall, F1-Score for classification, and Silhouette Score and Davies-Bouldin Index for clustering.
 
-<img src="image/system_operation_process.png" 
+<img src="image/system_operation_process.png">
 
 #### Dataset
 The dataset, sourced from [shopping_behavior_updated](https://www.kaggle.com/code/a10101100/ecommerce-trends-viz), is a synthetic collection simulating real-world customer shopping behavior at a mall. It includes 3,900 records with attributes such as:
@@ -24,7 +24,7 @@ Review Rating
 Promo Code Used
 And more (see the full list in the report)
 
-<img src="image/data_set_structure.png" 
+<img src="image/dataset_structure.png">
 
 
 #### Methodology
